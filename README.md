@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Abbas
 ####  I'm on the journey toward becoming a Full Stack Web Developer.
-![ I'm on the journey toward becoming a Full Stack Web Developer.](![Header](./your-header-image-name.png))
-![Header](./your-header-image-name.png)
+![ I'm on the journey toward becoming a Full Stack Web Developer.](https://leviarista.github.io/github-profile-header-generator/#:~:text=!%5BHeader%5D(./your%2Dheader%2Dimage%2Dname.png))
 
 I'm a passionate Full Stack Web Developer. I blend creativity with technical skills to craft user-friendly digital solutions. Let's connect and create something awesome together!
 
