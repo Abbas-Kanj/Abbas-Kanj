@@ -12,8 +12,6 @@ Skills: PY / JS / HTML / CSS
 - 🌱 I’m currently learning Java Script 
 - 👯 I’m looking to collaborate on Various projects 
 - 📫 How to reach me: abbas_kanj@hotmail.com 
-- 😄 Pronouns: he/him 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kenji-Leb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/abbas-kanj-6a2479269/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abbas.kanj.73)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kanj_a1/)  
 
@@ -21,5 +19,4 @@ Skills: PY / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenji-Leb&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kenji-Leb)  
 
