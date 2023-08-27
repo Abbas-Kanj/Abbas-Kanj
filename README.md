@@ -1,6 +1,6 @@
+![Header](./github-header-image.png)
 ### Hi there 👋, my name is Abbas
 ####  I'm on the journey toward becoming a Full Stack Web Developer.
-![ I'm on the journey toward becoming a Full Stack Web Developer.](![Header](./github-header-image.png))
 
 I'm a passionate Full Stack Web Developer. I blend creativity with technical skills to craft user-friendly digital solutions. Let's connect and create something awesome together!
 
